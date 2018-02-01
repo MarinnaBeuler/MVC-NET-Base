@@ -13,7 +13,7 @@ namespace MVCBlank.Services
         {
             get
             {
-                return new DbAdapter(new SqlCommand(), new SqlConnection("Server= 13.64.246.7; Database=C45_LeaseHold;User Id = C45_User; Password=Sabiopass1!"));
+                return new DbAdapter(new SqlCommand(), new SqlConnection(@"Server=localhost\SQLEXPRESS;User Instance=true;Integrated Security=true;Database=PersonalProject;"));
             }
             
         }
