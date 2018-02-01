@@ -1,0 +1,6 @@
+C:\Users\Joseph\source\repos\MVCBlank\DbConnector\bin\Debug\DbConnector.dll
+C:\Users\Joseph\source\repos\MVCBlank\DbConnector\bin\Debug\DbConnector.pdb
+C:\Users\Joseph\source\repos\MVCBlank\DbConnector\obj\Debug\DbConnector.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\source\repos\MVCBlank\DbConnector\obj\Debug\DbConnector.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\MVCBlank\DbConnector\obj\Debug\DbConnector.dll
+C:\Users\Joseph\source\repos\MVCBlank\DbConnector\obj\Debug\DbConnector.pdb

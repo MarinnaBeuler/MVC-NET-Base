@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalWebsite", "MVCBlank\PersonalWebsite.csproj", "{758C1DE7-6051-4353-A447-9691D7326166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbConnector", "DbConnector\DbConnector.csproj", "{760A7F2D-AF1C-4459-A7CE-34E4D3B74FF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{758C1DE7-6051-4353-A447-9691D7326166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758C1DE7-6051-4353-A447-9691D7326166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758C1DE7-6051-4353-A447-9691D7326166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758C1DE7-6051-4353-A447-9691D7326166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760A7F2D-AF1C-4459-A7CE-34E4D3B74FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760A7F2D-AF1C-4459-A7CE-34E4D3B74FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760A7F2D-AF1C-4459-A7CE-34E4D3B74FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760A7F2D-AF1C-4459-A7CE-34E4D3B74FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15C4226C-9BE8-40ED-8BEB-03019F9612FF}
+	EndGlobalSection
+EndGlobal
